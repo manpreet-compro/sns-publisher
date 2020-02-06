@@ -1,0 +1,8 @@
+{
+    "AWS": {
+        "accessKey": "AKIAXOANK4SU5EGANQUL",
+        "secretKey": "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",
+        "bucketName": "sns-subscriber-bucket",
+        "region": "us-east-1"
+    }
+}
